@@ -1,0 +1,2 @@
+# kokopelli 和訳
+
